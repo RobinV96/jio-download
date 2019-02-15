@@ -1,0 +1,28 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to bottom right, #19d461,#31a6e0);
+    opacity: 50%;
+    color: white;
+    height: 100vh;
+}
+
+.downloadknop
+{
+    margin: auto;
+    width: 30%;
+}
+
+h3
+{
+    text-align: center;
+}
+
+a
+{
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    text-decoration: none;
+}
+
